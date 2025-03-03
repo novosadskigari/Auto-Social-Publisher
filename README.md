@@ -1,6 +1,6 @@
 # Auto Social Publisher
 
-A WordPress plugin that adds social network publishing options directly in the post editor. Created to demonstrate WordPress plugin development skills.
+A WordPress plugin that adds social network publishing options directly in the post editor.
 
 ## Features
 
@@ -34,12 +34,3 @@ A WordPress plugin that adds social network publishing options directly in the p
 1. Download the plugin
 2. Upload to wp-content/plugins/
 3. Activate through WordPress admin
-
-## Development Notes
-
-This is a demonstration plugin showing:
-- WordPress plugin architecture
-- Meta box implementation
-- Post action hooks
-- Security best practices
-- Clean code organization
